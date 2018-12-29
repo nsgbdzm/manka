@@ -1,0 +1,25 @@
+{
+  "Name" : "漫咖",
+  "homeTown" : "日本",
+  "secretBase" : "帅气",
+  "members" : [
+    {
+      "name" : "我爱罗",
+      "from" : "火影忍者",
+      "power" : "一尾守鹤",
+      "identity":"砂隐村第五代火影"
+    },
+    {
+      "name" : "杀生丸",
+      "from" : "犬夜叉",
+      "powers" : "全妖血统",
+      "identity":"厉害的妖怪"
+    },
+    {
+      "name" : "巴卫",
+      "from":"元气少女缘结神"
+      "identity" : "妖狐",
+      "powers" : "御影神社第一神使"
+    }
+  ]
+}
