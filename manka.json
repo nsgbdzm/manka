@@ -12,14 +12,14 @@
     {
       "name" : "杀生丸",
       "from" : "犬夜叉",
-      "powers" : "全妖血统",
+      "power" : "全妖血统",
       "identity":"厉害的妖怪"
     },
     {
       "name" : "巴卫",
-      "from":"元气少女缘结神"
-      "identity" : "妖狐",
-      "powers" : "御影神社第一神使"
+      "from":"元气少女缘结神",
+      "powers" : "御影神社第一神使",
+      "identity" : "妖狐"
     }
   ]
 }
