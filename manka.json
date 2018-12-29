@@ -1,41 +1,25 @@
 {
-  "squadName" : "Super hero squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
-  "active" : true,
+  "Name" : "manka",
+  "homeTown" : "japan",
+  "secretBase" : "handsome",
   "members" : [
     {
-      "name" : "Molecule Man",
-      "age" : 29,
-      "secretIdentity" : "Dan Jukes",
-      "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
-      ]
+      "name" : "我爱罗",
+      "from" : "火影忍者",
+      "power" : "一尾守鹤",
+      "identity":"砂隐村第五代火影"
     },
     {
-      "name" : "Madame Uppercut",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
+      "name" : "杀生丸",
+      "from" : "犬夜叉",
+      "powers" : "全妖血统",
+      "identity":"厉害的妖怪"
     },
     {
-      "name" : "Eternal Flame",
-      "age" : 1000000,
-      "secretIdentity" : "Unknown",
-      "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
-      ]
+      "name" : "巴卫",
+      "from":"元气少女缘结神"
+      "identity" : "妖狐",
+      "powers" : "御影神社第一神使"
     }
   ]
 }
